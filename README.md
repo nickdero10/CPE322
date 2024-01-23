@@ -6,7 +6,7 @@
 > This file will go over points in the sylabus for **Design 6**
 ---
 ## CPE 322 Canvas Link
-> Click **[here](https://sit.instructure.com/courses/70325)** for the CPE 322 Canvas Link
+> Click **[here](https://sit.instructure.com/courses/70325)** for the CPE 322 Canvas Link.
 ---
 ## Assignments
 1. Github Repository
@@ -35,12 +35,17 @@
 
 ---
 ### Learning Objectives
-- Formulate problems correctly
-- Work successfully in interdisciplinary teams
-- Develop **creativity, imagination, and analytical skills**
-- Incorporate appropriate **engineering standards** and **multiple constraints**
-- Apply the *knowledge* and *skills* acquired in earlier course work
-- Make informed **ethical decisions**
-- Hone *written* and *oral* **communication skills**
+- Formulate problems correctly.
+- Work successfully in interdisciplinary teams.
+- Develop **creativity, imagination, and analytical skills**.
+- Incorporate appropriate **engineering standards** and **multiple constraints**.
+- Apply the *knowledge* and *skills* acquired in earlier course work.
+- Make informed **ethical decisions**.
+- Hone *written* and *oral* **communication skills**.
+
+### Schedule
+Class meets once a week on Monday at 10:00 a.m. and lasts till 12:00 p.m.
+
+The class meets in the Babbio Center in room 104.
 
 
