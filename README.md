@@ -30,7 +30,17 @@
 - Assignments: 75%
 - Labs: 10%
 ---
-### Code Languages Learned
+### Code Languages Learning
 `C++, Python, JavaScript`
+
+---
+### Learning Objectives
+- Formulate problems correctly
+- Work successfully in interdisciplinary teams
+- Develop **creativity, imagination, and analytical skills**
+- Incorporate appropriate **engineering standards** and **multiple constraints**
+- Apply the *knowledge* and *skills* acquired in earlier course work
+- Make informed **ethical decisions**
+- Hone *written* and *oral* **communication skills**
 
 
