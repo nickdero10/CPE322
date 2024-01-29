@@ -42,7 +42,7 @@
 - Apply the *knowledge* and *skills* acquired in earlier course work.
 - Make informed **ethical decisions**.
 - Hone *written* and *oral* **communication skills**.
-
+---
 ### Schedule
 Class meets once a week on Monday at 10:00 a.m. and lasts till 12:00 p.m.
 
