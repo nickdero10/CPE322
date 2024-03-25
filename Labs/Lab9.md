@@ -3,7 +3,7 @@
 ![image](/Images/Lab9_yang.png)
 ![image](/Images/Lab9_uml.png)
 
-## Intrusion Detection png created
+## Intrusion Detection png Created
 ![image](/Images/Lab9_plantuml.png)
 
 ## Intrusion Detection
