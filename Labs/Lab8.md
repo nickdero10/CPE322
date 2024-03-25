@@ -22,4 +22,4 @@
 ![image](/Images/Lab8_linear.png)
 
 ## Multiple Linear Regression
-![image](/Images/Lab8_regression.png)
+![image](/Images/Lab8_Regression.png)
